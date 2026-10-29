@@ -8,14 +8,14 @@ More about me and my work at [olabiyi-portfolio.vercel.app](https://olabiyi-port
 
 **Projects you can open and click through**
 
-- [**Evermora**](https://github.com/DataByOlabiyi/evermora-memorials): one permanent link for an online memorial, with the life story, photos, tributes and funeral details in one place. Three Next.js apps in a Turborepo monorepo, Supabase with Row Level Security, pgTAP tests. [Live demo](https://evermora-web.vercel.app)
-- [**Wedding Photo Sharing**](https://github.com/DataByOlabiyi/wedding-photo-sharing): I built this for my own wedding so guests could scan a QR code and drop their photos into one album. Next.js, Supabase, rate limiting, printable QR tickets. [Live demo](https://wedding-photo-platform.vercel.app)
+- [**Evermora**](https://github.com/olabiyi-olaleye/evermora-memorials): one permanent link for an online memorial, with the life story, photos, tributes and funeral details in one place. Three Next.js apps in a Turborepo monorepo, Supabase with Row Level Security, pgTAP tests. [Live demo](https://evermora-web.vercel.app)
+- [**Wedding Photo Sharing**](https://github.com/olabiyi-olaleye/wedding-photo-sharing): I built this for my own wedding so guests could scan a QR code and drop their photos into one album. Next.js, Supabase, rate limiting, printable QR tickets. [Live demo](https://wedding-photo-platform.vercel.app)
 
 **Data projects**
 
-- [SQL: Brazilian e-commerce analysis](https://github.com/DataByOlabiyi/SQL_Project_Ecommerce_Analysis), 120k records in MySQL
-- [Power BI: Vintage Couture sales report](https://github.com/DataByOlabiyi/PowerBI_Project_Vintage_Couture)
-- [Excel: global data science salaries during COVID-19](https://github.com/DataByOlabiyi/Excel_Project_Global_Data_Science_Salaries)
+- [SQL: Brazilian e-commerce analysis](https://github.com/olabiyi-olaleye/SQL_Project_Ecommerce_Analysis), 120k records in MySQL
+- [Power BI: Vintage Couture sales report](https://github.com/olabiyi-olaleye/PowerBI_Project_Vintage_Couture)
+- [Excel: global data science salaries during COVID-19](https://github.com/olabiyi-olaleye/Excel_Project_Global_Data_Science_Salaries)
 
 **What I use**
 
