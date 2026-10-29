@@ -4,6 +4,8 @@ I'm a software engineer in Lagos. Most of what I build is React, Next.js and Rea
 
 I studied Economics before I moved into software, so data work comes naturally to me too. I build dashboards in Power BI and Excel and like knowing what the data says before I change any code.
 
+More about me and my work at [olabiyi-portfolio.vercel.app](https://olabiyi-portfolio.vercel.app).
+
 **Projects you can open and click through**
 
 - [**Evermora**](https://github.com/DataByOlabiyi/evermora-memorials): one permanent link for an online memorial, with the life story, photos, tributes and funeral details in one place. Three Next.js apps in a Turborepo monorepo, Supabase with Row Level Security, pgTAP tests. [Live demo](https://evermora-web.vercel.app)
@@ -21,6 +23,6 @@ TypeScript · JavaScript · React · Next.js · React Native (Expo) · Node.js �
 
 **Get in touch**
 
-[LinkedIn](https://www.linkedin.com/in/olabiyi-olaleye-94b896128) · olabiyi.olaleye23@gmail.com
+[Portfolio](https://olabiyi-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/olabiyi-olaleye-94b896128) · olabiyi.olaleye23@gmail.com
 
 I'm open to remote frontend, full-stack and mobile roles.
